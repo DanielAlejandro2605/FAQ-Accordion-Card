@@ -94,7 +94,7 @@ button{
         margin-top: 0.3rem;
     }
 }
-@media (max-width: 375px) {
+@media (max-width: 450px) {
     #accordion_container{
         width: 90%;
         height: 70%;
